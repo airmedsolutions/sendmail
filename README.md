@@ -19,7 +19,7 @@ allprojects {
 
 ```
 dependencies {
-  implementation 'com.github.airmedsolutions:sendmail:Tag'
+  implementation 'com.github.airmedsolutions:sendmail:1.2.0'
 }
 ```
 
